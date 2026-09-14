@@ -31,10 +31,11 @@ Este proyecto documenta una mini campaña de monitoreo acústico realizada en un
 
 ## 4. Configuración de los equipos
 
-Modelo:
-| A | Tascam DR-07 |
+| Punto | Modelo |
+|---|---|
+| A | Tascam DR-07x |
 | B | Tascam DR-07 |
-| C | Tascam DR-07X|
+| C | Tascam DR-07 |
 
 **Configuración:**
 
@@ -47,7 +48,7 @@ Modelo:
 - **Fecha de grabación:** Lunes 7 de septiembre
 
 ## 5. Organización del proyecto
-
+```text
 soundscape_project/
 │
 ├── data/
@@ -63,3 +64,4 @@ soundscape_project/
 ├── outputs/
 │
 └── README.md
+```
