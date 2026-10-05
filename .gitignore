@@ -1,0 +1,7 @@
+data/raw/*
+!data/raw/.gitkeep
+
+data/raw/A/*
+data/raw/B/*
+data/raw/C/*
+!data/raw/**/.gitkeep

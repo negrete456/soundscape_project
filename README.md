@@ -19,15 +19,15 @@ Este proyecto documenta una mini campaña de monitoreo acústico realizada en un
 ## 3. Diseño de muestreo
 
 - Puntos: Tres puntos de grabación simultánea.
-  - Punto A: **Rellenaaaaaaaaaaaaar**
-  - Punto B: **Rellenaaaaaaaaaaaaar**
-  - Punto C: Sector más al sur de los tres puntos medidos del parque, frente a un humedal en un camino poco transitado.
+  - Punto A: Sector al norte de parroquia Santa Inés, a la derecha de calle Los Lingues y frente a boscosa área de esparcimiento. 
+  - Punto B: Sector más al norte de los medidos del parque, a pocos metros de la entrada del mismo frente a Avenida los Robles.
+  - Punto C: Sector más al sur de los tres puntos medidos del parque, frente a un humedal en un camino poco transitado, más alejado se encuentra un colegio.
 
 - Duración por punto: 20 minutos
 - Período: Lunes a las 17:30
 - Total de audio: 3 puntos × 20 minutos = 60 minutos de audio
 
-> **Nota:** se grabó a propósito en los 3 puntos al mismo tiempo, para controlar la variable "momento del día". Esto permite comparar A/B/C directamente entre sí, pero no permite saber si las diferencias se mantienen en otros momentos del día.
+> **Nota:** se grabó en los 3 puntos a tiempos similares, para controlar la variable "momento del día". Esto permite comparar A/B/C directamente entre sí, pero no permite saber si las diferencias se mantienen en otros momentos del día.
 
 ## 4. Configuración de los equipos
 

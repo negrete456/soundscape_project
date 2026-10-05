@@ -1,0 +1,7 @@
+recording_id,filename,device,point,lat,lon,datetime,duration_s,sample_rate,habitat,notes
+A_01,PuntoA_5_PM_30_mins_7SEPT,Tascam DR-07x,A,-39.811313,-73.257271,2026-09-07 5:00:00 p.m.,1800,44100,sendero interno,"Sector al norte de parroquia Santa Inés, a la derecha de calle Los Lingues y frente a boscosa área de esparcimiento."
+A_02,PuntoA_5_40PM_20_mins_7SEPT,Tascam DR-07x,A,-39.811313,-73.257271,2026-09-07 5:40:00 p.m.,1200,44100,sendero interno,"Sector al norte de parroquia Santa Inés, a la derecha de calle Los Lingues y frente a boscosa área de esparcimiento."
+B_01,PuntoB_5_45_PM_20_mins_7SEPT,Tascam DR-07,B,-39.810579,-73256482,2026-09-07 5:45:00 p.m.,1200,44100,entrada al parque,"Sector más al norte de los medidos del parque, a pocos metros de la entrada del mismo frente a Avenida los Robles"
+B_02,PuntoB_6_10_PM_20_mins_7SEPT,Tascam DR-08,B,-39.810579,-73256482,2026-09-07 6:10:00 p.m.,1200,44100,entrada al parque,"Sector más al norte de los medidos del parque, a pocos metros de la entrada del mismo frente a Avenida los Robles"
+C_01,PuntoC_5_22PM_20_mins_7SEPT,Tascam DR-09,C,-39.812304,-73.256192,2026-09-07 5:22:00 p.m.,1200,44100,borde humedal,"Sector más al sur de los tres puntos medidos del parque, frente a un humedal en un camino poco transitado, más alejado se encuentra un colegio."
+C_02,PuntoC_5_45PM_20_mins_7SEPT,Tascam DR-10,C,-39.812304,-73.256192,2026-09-07 5:45:00 p.m.,1200,44100,borde humedal,"Sector más al sur de los tres puntos medidos del parque, frente a un humedal en un camino poco transitado, más alejado se encuentra un colegio."
